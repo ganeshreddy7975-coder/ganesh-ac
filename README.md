@@ -1,7 +1,7 @@
 <h2 align="center">Hi , I'm Anvesh S H</h2>
 
 <p align="center">
-   B.Tech AI&ML Graduate (2025) <br>
+   B.Tech ISE Graduate (2025) <br>
    Software Developer & AI/ML Enthusiast <br>
    Exploring DevOps, React, Flask & Python ML Projects
 </p>
@@ -14,7 +14,7 @@
 -  I’m learning **DevOps**, **Linux**, and **cloud systems**
 -  Passionate about **AI/ML**, data pipelines, and system design
 -  Ask me about Python, Flask, React, UI/UX, or automation
--  Reach me at: [anv2ko1@gmail.com](mailto:anv2ko1@gmail.com)
+-  Reach me at: [ganeshreddy7975@gmail.com](mailto:ganeshreddy79751@gmail.com)
 
 ---
 
@@ -34,7 +34,7 @@
 - **[Battery Health Prediction AI App](https://github.com/yourusername/project-link)**  
   Flask + ML app using SVM, RF, DT, KNN, DNN
 
-- **[E-Commerce Cart UI](https://github.com/yourusername/project-link)**  
+- **[E-Commerce Cart UI](https://github.com/ganeshreddy7975-coder/ganesh-ac/edit/main/README.md)**  
   Web UI with cart functionality
 
 - **[Fest Management System](https://github.com/yourusername/project-link)**  
