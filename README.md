@@ -18,5 +18,5 @@
 ---
 
 ## 🤝 Connect with Me
-- LinkedIn: add-your-link-here
-- Email: your-email@gmail.com
+- LinkedIn: www.linkedin.com/in/ganeshreddy1619
+- Email: ganeshreddy7975@gmail.com
