@@ -1,4 +1,4 @@
-<h2 align="center">Hi , I'm Anvesh S H</h2>
+<h2 align="center">Hi , I'm Ganesh Reddy</h2>
 
 <p align="center">
    B.Tech ISE Graduate (2025) <br>
