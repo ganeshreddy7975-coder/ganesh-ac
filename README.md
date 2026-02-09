@@ -1,7 +1,7 @@
-# ganesh-ac<h2 align="center">Hi , I'm Anvesh S H</h2>
+# ganesh-ac<h2 align="center">Hi , I'm  Ganesh Reddy</h2>
 
 <p align="center">
-   B.Tech AI&ML Graduate (2025) <br>
+   B.Tech ISE Graduate (2025) <br>
    Software Developer & AI/ML Enthusiast <br>
    Exploring DevOps, React, Flask & Python ML Projects
 </p>
@@ -14,7 +14,7 @@
 -  I’m learning **DevOps**, **Linux**, and **cloud systems**
 -  Passionate about **AI/ML**, data pipelines, and system design
 -  Ask me about Python, Flask, React, UI/UX, or automation
--  Reach me at: [anv2ko1@gmail.com](mailto:anv2ko1@gmail.com)
+-  Reach me at: [ganeshreddy7975@gmail.com](mailto: ganeeshreddy7975@gmail.com)
 
 ---
 
